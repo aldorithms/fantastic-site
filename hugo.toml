@@ -1,6 +1,6 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://fantastic-games.dev/'
 locale = 'en-us'
-title = 'My New Hugo Project'
+title = 'Fantastic Games'
 # theme = 'hugo-noir'
 
 [[menu.main]]
